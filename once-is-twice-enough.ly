@@ -21,7 +21,7 @@ up = \drummode {
 
     hh16 hh16 hh8
     hh16 hh16 hh8
-    hh16 hh16 hh8
+    hh16 bd16 hh16 bd16
     hh16 hh16 hho8
 
     hh16 hh16 hh8
@@ -86,7 +86,7 @@ down = \drummode {
 
     r8. bd16
     sn8. bd16
-    r16 bd16 r16 bd16
+    s4
     sn4
 
     bd4
