@@ -43,6 +43,27 @@ up = \drummode {
     hh16 hh16 hh8
     hh16 hh16 hh8
     hh16 hh16 hho8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hho8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hho8
+
 }
 
 down = \drummode {
@@ -78,6 +99,27 @@ down = \drummode {
     sn8. bd16
     bd8. bd16
     sn4
+
+    bd4
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    bd8. bd16
+    sn4
+
+    bd8 sn8
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    bd8. bd16
+    sn4
+
 }
 
 \new DrumStaff <<
