@@ -73,11 +73,11 @@ up = \drummode {
     r16 tommh16 r16 tomml16
     r16 toml16 r16 <bd cymc>16
 
-    r4 cymr4 cymr4 cymr4
+    r8 \repeat unfold 7 cymr8
 
-    cymr4 cymr4 cymr4 cymr8. cymc16
+    \repeat unfold 6 cymr8 cymr8. cymc16
 
-    cymr4 cymr4 cymr4 cymr4
+    r8 \repeat unfold 7 cymr8
 
     cymr4 cymr4 cymr4 cymr4
 
@@ -168,7 +168,7 @@ down = \drummode {
 
     s1
 
-    bd4
+    r4
     sn8. bd16
     bd8. bd16
     sn8. bd16
