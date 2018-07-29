@@ -33,7 +33,16 @@ up = \drummode {
     sn16 tommh16 tommh16 sn16
     tomml16 tommh16 tomml16 bd16
 
-    cymc4
+    cymc16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hho8
+
 }
 
 down = \drummode {
@@ -61,6 +70,14 @@ down = \drummode {
     s2
 
     bd4
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    bd8. bd16
+    sn4
 }
 
 \new DrumStaff <<
