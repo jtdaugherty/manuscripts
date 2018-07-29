@@ -81,29 +81,15 @@ up = \drummode {
 
     s1
 
-    cymr4 cymr4 cymr4 cymr4
+    r8 \repeat unfold 7 cymr8
 
-    cymr4 cymr4 cymr4 cymr4
+    \repeat unfold 6 cymr8 cymr8. cymc16
 
-    cymr4 cymr4 cymr4 cymr4
+    \repeat unfold 6 cymr8 cymr8. cymc16
 
-    cymr4 cymr4 cymr4 cymr4
+    s1
 
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
-
-    cymr4 cymr4 cymr4 cymr4
+    cymc4
 
 }
 
@@ -187,6 +173,26 @@ down = \drummode {
     sn16 <bd cymc>8 sn16
     bd16 hho16 hhc16 sn16
     sn16 sn16 tomml16 <bd cymc>16
+
+    r4
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r4
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r4 hh16\< hh16 hh16 sn16\! sn16 <hhc bd>8 <hhc bd>16
+    r16 sn16 sn16 bd16
+
+    bd4
 }
 
 \new DrumStaff <<
