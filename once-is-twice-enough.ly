@@ -79,7 +79,7 @@ up = \drummode {
 
     r8 \repeat unfold 7 cymr8
 
-    cymr4 cymr4 cymr4 cymr4
+    s1
 
     cymr4 cymr4 cymr4 cymr4
 
@@ -173,10 +173,20 @@ down = \drummode {
     bd8. bd16
     sn8. bd16
 
-    bd4
+    r8. bd16
     sn8. bd16
     bd8. bd16
     sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    bd8. bd16
+    sn8. sn32 sn32
+
+    bd16 sn8 bd16
+    sn16 <bd cymc>8 sn16
+    bd16 hho16 hhc16 sn16
+    sn16 sn16 tomml16 <bd cymc>16
 }
 
 \new DrumStaff <<
