@@ -3,6 +3,7 @@
   arranger = "Arr. J. Daugherty"
   instrument = "Drum Set"
   composer = "The Brand New Heavies"
+  tagline = ""
 }
 
 up = \drummode {
