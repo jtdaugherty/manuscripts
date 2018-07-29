@@ -9,7 +9,7 @@ up = \drummode {
     \repeat percent 3 { r4 hh4 r4 hh4 }
 
     r8 sn8
-    r16 tomh8 tommh16
+    r16 tommh8 tommh16
     sn32 sn32 sn16 sn16 hh16
     hh16 tommh16 toml16 bd16
 
