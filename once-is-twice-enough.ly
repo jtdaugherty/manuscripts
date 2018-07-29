@@ -1,5 +1,5 @@
 \header{
-  title = "Once is Twice Enough"
+  title = "Once Is Twice Enough"
   arranger = "Arr. J. Daugherty"
   instrument = "Drum Set"
   composer = "The Brand New Heavies"
@@ -72,6 +72,39 @@ up = \drummode {
     r2
     r16 tommh16 r16 tomml16
     r16 toml16 r16 <bd cymc>16
+
+    r4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
+    cymr4 cymr4 cymr4 cymr4
+
 }
 
 down = \drummode {
