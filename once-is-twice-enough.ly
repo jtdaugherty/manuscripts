@@ -12,7 +12,7 @@ up = \drummode {
     r8 \acciaccatura sn sn8
     r16 tommh8 tommh16
     sn32 sn32 sn16 sn16 hh16
-    hh16 tommh16 toml16 bd16
+    hh16 sn16 toml16 bd16
 
     cymc16 hh16 hh8
     hh16 hh16 hh8
