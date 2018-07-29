@@ -17,21 +17,57 @@ up = \drummode {
     hh16 hh16 hh8
     hh16 hh16 hh8
     hh16 hh16 hh8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hho8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+
+    hh16 hh16 hh8
+    hh16 hh16 hh8
+    sn16 tommh16 tommh16 sn16
+    tomml16 tommh16 tomml16 bd16
+
+    cymc4
 }
 
 down = \drummode {
     s1 s1 s1
+
     s1
 
     bd4
     sn8. bd16
     bd8. bd16
     sn8. bd16
+
+    r8. bd16
+    sn8. bd16
+    r16 bd16 r16 bd16
+    sn4
+
+    bd4
+    sn8. bd16
+    bd8. bd16
+    sn8. bd16
+
+    r8. bd16
+    sn8. sn32 sn32
+    s2
+
+    bd4
 }
 
 \new DrumStaff <<
-\override Score.BarNumber.break-visibility = ##(#f #t #t)
-  \tempo 4 = 90
+  % Show bar numbers for all bars
+  \override Score.BarNumber.break-visibility = ##(#f #t #t)
+
+  \tempo 4 = 93
   \new DrumVoice { \voiceOne \up }
   \new DrumVoice { \voiceTwo \down }
 >>
