@@ -54,6 +54,8 @@ up = \drummode {
     hh16 hh16 hh8
     hh16 hh16 hho8
 
+    \repeat volta 3 {
+
     hh16 hh16 hh8
     hh16 hh16 hh8
     hh16 hh16 hh8
@@ -108,6 +110,9 @@ up = \drummode {
     hh16 hh16 hh8
     hh16 bd16 hh16 bd16
     hh8 hh8
+    }
+
+    cymc4
 }
 
 down = \drummode {
@@ -153,6 +158,8 @@ down = \drummode {
     sn8. bd16
     bd8. bd16
     sn4
+
+    \repeat volta 3 {
 
     bd8 sn8
     sn8. bd16
@@ -228,6 +235,9 @@ down = \drummode {
     sn8. bd16
     s4
     sn16 bd16 r16 bd16
+    }
+
+    bd4
 }
 
 \new DrumStaff <<
