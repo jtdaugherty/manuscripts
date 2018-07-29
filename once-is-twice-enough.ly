@@ -8,7 +8,7 @@
 up = \drummode {
     \repeat percent 3 { r4 hh4 r4 hh4 }
 
-    r8 sn8
+    r8 \acciaccatura sn sn8
     r16 tommh8 tommh16
     sn32 sn32 sn16 sn16 hh16
     hh16 tommh16 toml16 bd16
@@ -42,7 +42,6 @@ up = \drummode {
     hh16 hh16 hh8
     hh16 hh16 hh8
     hh16 hh16 hho8
-
 }
 
 down = \drummode {
